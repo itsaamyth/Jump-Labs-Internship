@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+  }
+  
+  .header {
+    text-align: center;
+    padding: 32px;
+  }
+  .container-fluid .row{
+      margin-bottom: 20px;
+      text-align: center;
+  }
+
+  /* @media screen and (max-width: 800px) {
+    .container-fluid .row .col-sm-3{ 
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+  } */
